@@ -1,6 +1,6 @@
 {
   "id": "project_1",
-  "name": "New Project",
+  "name": "Fox Warren",
   "kind": "Project",
   "properties": {},
   "elements": [
@@ -21,8 +21,8 @@
               "name": "Title",
               "kind": "Text",
               "properties": {
-                "content": "Hi there foxes!",
-                "fontSize": 32
+                "content": "Hi there BIG foxes!",
+                "fontSize": 40
               },
               "elements": []
             }
